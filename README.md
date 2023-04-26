@@ -1,0 +1,6 @@
+# Saloon Warp Totem
+A Stardew Valley mod that makes accessing the saloon very fast and very easy. The main usage: simplifying the grind for the [Journey of the Prairie King](https://stardewvalleywiki.com/Journey_of_the_Prairie_King) achievement while not taking away any of the hard parts - just the boring walk! It also enables you to bypass the opening hours restriction for the saloon before having the endgame [Key to the Town](https://stardewvalleywiki.com/Key_To_The_Town) perk.
+
+**[WIP]** Currently the mod is in the state that when you "drink" (right click) a stack of 12 beer, you warp to the saloon. The plan: add an item (preferably using only SMAPI), the "Saloon Warp Totem", along with a fitting crafting recipe and unlock method, and use that instead.
+
+The mod will be published on [nexusmods.com](https://www.nexusmods.com/stardewvalley/mods/) once the above is implemented.
