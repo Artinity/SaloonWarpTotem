@@ -3,4 +3,4 @@ A Stardew Valley mod that makes accessing the saloon very fast and very easy. Th
 
 **[WIP]** Currently the mod is in the state that when you "drink" (right click) a stack of 12 beer, you warp to the saloon. The plan: add an item (preferably using only SMAPI), the "Saloon Warp Totem", along with a fitting crafting recipe and unlock method, and use that instead.
 
-The mod will be published on [nexusmods.com](https://www.nexusmods.com/stardewvalley/mods/) once the above is implemented.
+More info and downloads: https://www.nexusmods.com/stardewvalley/mods/16450/
